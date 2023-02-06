@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="navigation_open">Açık</string>
+    <string name="navigation_close">Kapalı</string>
+    <string name="close_text">Uygulamadan Çıkış Yapmak İçin Butona Basınız.</string>
+    <string name="recorder_text">Ekran Kaydını Başlatmak İçin Butona Basınız.</string>
+</resources>
