@@ -6,15 +6,12 @@
     <group android:checkableBehavior="single">
 
         <item android:id="@+id/nav_exit"
-              android:icon="@drawable/ic_launcher_background"
               android:title="Application Exit"/>
 
-        <item android:id="@+id/nav_recorder"
-              android:icon="@drawable/ic_launcher_background"
-              android:title="Recorder"/>
+        <item android:id="@+id/nav_gallery"
+              android:title="Gallery"/>
 
         <item android:id="@+id/nav_deneme"
-              android:icon="@drawable/ic_launcher_background"
               android:title="Deneme"/>
 
     </group>
